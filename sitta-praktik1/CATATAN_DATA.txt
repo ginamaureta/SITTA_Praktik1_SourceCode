@@ -1,0 +1,1 @@
+data.js pada lampiran tugas digunakan sebagai sumber data dummy. Outer <script> wrapper dihilangkan agar valid sebagai external JS file. File paud_perkembangan.jpg adalah alias dari paud_perkembangan.jpeg karena path pada data dummy menggunakan ekstensi .jpg.
